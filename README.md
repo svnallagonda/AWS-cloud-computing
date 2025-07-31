@@ -1,2 +1,2 @@
-# AWS-cloud-computing
+# SERVERLESS IMAGE GENERATION
 AWS project 
